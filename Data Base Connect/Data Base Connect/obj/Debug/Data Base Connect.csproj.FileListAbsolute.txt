@@ -1,0 +1,10 @@
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\bin\Debug\Data Base Connect.exe.config
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\bin\Debug\Data Base Connect.exe
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\bin\Debug\Data Base Connect.pdb
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\bin\Debug\MySql.Data.dll
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data Base Connect.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\ConnectCsharpToMysql.Form1.resources
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data_Base_Connect.Properties.Resources.resources
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data Base Connect.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data Base Connect.exe
+E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data Base Connect.pdb

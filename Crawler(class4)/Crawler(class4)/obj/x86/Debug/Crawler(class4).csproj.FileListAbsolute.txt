@@ -1,0 +1,15 @@
+C:\Users\faizan_commando\AppData\Local\Temporary Projects\Crawler(class4)\bin\Debug\Crawler(class4).exe
+C:\Users\faizan_commando\AppData\Local\Temporary Projects\Crawler(class4)\bin\Debug\Crawler(class4).pdb
+C:\Users\faizan_commando\AppData\Local\Temporary Projects\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Form1.resources
+C:\Users\faizan_commando\AppData\Local\Temporary Projects\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Properties.Resources.resources
+C:\Users\faizan_commando\AppData\Local\Temporary Projects\Crawler(class4)\obj\x86\Debug\Crawler(class4).csproj.GenerateResource.Cache
+C:\Users\faizan_commando\AppData\Local\Temporary Projects\Crawler(class4)\obj\x86\Debug\Crawler(class4).exe
+C:\Users\faizan_commando\AppData\Local\Temporary Projects\Crawler(class4)\obj\x86\Debug\Crawler(class4).pdb
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).exe
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).pdb
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\bin\Debug\Crawler(class4).exe
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\bin\Debug\Crawler(class4).pdb
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).csprojResolveAssemblyReference.cache
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Form1.resources
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Properties.Resources.resources
+F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).csproj.GenerateResource.Cache
