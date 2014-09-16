@@ -25,7 +25,7 @@ namespace Data_Base_Connect
             Initialize();
         }
 
-        //Initialize values
+       
         private void Initialize()
         {
             server = "localhost";
