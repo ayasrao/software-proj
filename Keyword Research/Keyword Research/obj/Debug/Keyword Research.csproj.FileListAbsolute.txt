@@ -1,0 +1,18 @@
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\bin\Debug\Keyword Research.exe.config
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\bin\Debug\Keyword Research.exe
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\bin\Debug\Keyword Research.pdb
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\obj\Debug\Keyword Research.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Form1.resources
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Properties.Resources.resources
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\obj\Debug\Keyword Research.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\obj\Debug\Keyword Research.exe
+E:\visual studio 2013\Projects\Keyword Research\Keyword Research\obj\Debug\Keyword Research.pdb
+E:\software-project-management\Keyword Research\Keyword Research\bin\Debug\Keyword Research.exe.config
+E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword Research.exe
+E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword Research.pdb
+E:\software-project-management\Keyword Research\Keyword Research\bin\Debug\Keyword Research.exe
+E:\software-project-management\Keyword Research\Keyword Research\bin\Debug\Keyword Research.pdb
+E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword Research.csprojResolveAssemblyReference.cache
+E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Form1.resources
+E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Properties.Resources.resources
+E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword Research.csproj.GenerateResource.Cache
