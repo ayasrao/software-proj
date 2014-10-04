@@ -14,8 +14,10 @@ namespace Keyword_Research
         string uri;
        
         WebClient client = new WebClient();
+        WebClient clients = new WebClient();
         Stream istrm;
         int ch;
+        
         string keywords,googleglb;
         string[] keyword_list = new string[500];
         string[] ranks = new string[500];
@@ -37,7 +39,13 @@ namespace Keyword_Research
 
         private void GetStream(string url)
         {
-            str = client.DownloadString(uri);
+            IWebProxy px = new WebProxy("10.1.0.11",8080);
+            px.Credentials = new NetworkCredential("test3", "karachi@3");
+            client.Proxy = px;
+            
+            //client.Credentials = new NetworkCredential("test3", "karachi@3");
+            
+            str = client.DownloadString(url);
         }
 
         //For printing the html through stream
@@ -56,7 +64,7 @@ namespace Keyword_Research
                         if(rnksig!=true)
                         {
                         mul = 10 * j;
-                        uri = "https://www.google.com/search?q=" + keyword_list[i] + "&gl=" + googleglb +"start="+mul.ToString()+ "&ie=utf-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&gws_rd=cr,ssl&ei=c_AaVLLELsasigLZqoH4Bw#rls=org.mozilla:en-US:official&channel=fflb&q=.split%20C%23";
+                        uri = "https://www.google.com/search?q=" + keyword_list[i] +"&start="+ j +"&gl=" + googleglb +"start="+mul.ToString()+ "&ie=utf-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&gws_rd=cr,ssl&ei=c_AaVLLELsasigLZqoH4Bw#rls=org.mozilla:en-US:official&channel=fflb&q=.split%20C%23";
                         GetStream(uri);                       
                         curloc = str.IndexOf(query, start, StringComparison.OrdinalIgnoreCase);
                         if (i != -1)

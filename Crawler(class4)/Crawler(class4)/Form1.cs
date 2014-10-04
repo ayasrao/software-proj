@@ -12,7 +12,8 @@ namespace Crawler_class4_
     public partial class Form1 : Form
     {
         int curloc;
-        string link;
+        string[] link;
+        int link_no = 0;
         string str;
         public Form1()
         {
@@ -22,25 +23,35 @@ namespace Crawler_class4_
         private void button1_Click(object sender, EventArgs e)
         {
             Data ob1 = new Data(textBoxUrl.Text);
-            string datas= null ;
+            //string datas= null ;
             str=ob1.GetStream();
             curloc = 0;
-             do
-                {
+             //do
+            //    {
                     link = ob1.FindLink(str, ref curloc);
-                    if (link != null)
-                    {
-                        datas+= link+"\n";
-                    }
-                    else
-                    {
-                        MessageBox.Show("No link found","Caution");
-                        break;
-                    }
+                    //if (link != null)
+                    //{
+                       // datas+= link+"\n";
+                    ///}
+                 //   else
+                   // {
+                     //   MessageBox.Show("No link found","Caution");
+                       // break;
+                    //}
                     
-                } while (link.Length > 0);
+               // } while (link.Length > 0);
                 // Close the Response.
-             textBox1.Text = datas;
+                    foreach (string urlss in link)
+                    {
+                        if (urlss != null)
+                        {
+                            textBox1.Text = urlss;
+                        }
+                        else
+                        {
+                            break;
+                        }
+                        }
         }
 
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)

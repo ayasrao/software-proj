@@ -8,3 +8,4 @@ E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Dat
 E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data Base Connect.csproj.GenerateResource.Cache
 E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data Base Connect.exe
 E:\visual studio 2013\Projects\Data Base Connect\Data Base Connect\obj\Debug\Data Base Connect.pdb
+F:\softpro\Data Base Connect\Data Base Connect\bin\Debug\Data Base Connect.exe.config

@@ -16,3 +16,12 @@ E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keywo
 E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Form1.resources
 E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Properties.Resources.resources
 E:\software-project-management\Keyword Research\Keyword Research\obj\Debug\Keyword Research.csproj.GenerateResource.Cache
+F:\softpro\Keyword Research\Keyword Research\bin\Debug\Keyword Research.exe.config
+F:\softpro\Keyword Research\Keyword Research\bin\Debug\Keyword Research.exe
+F:\softpro\Keyword Research\Keyword Research\bin\Debug\Keyword Research.pdb
+F:\softpro\Keyword Research\Keyword Research\obj\Debug\Keyword Research.csprojResolveAssemblyReference.cache
+F:\softpro\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Form1.resources
+F:\softpro\Keyword Research\Keyword Research\obj\Debug\Keyword_Research.Properties.Resources.resources
+F:\softpro\Keyword Research\Keyword Research\obj\Debug\Keyword Research.csproj.GenerateResource.Cache
+F:\softpro\Keyword Research\Keyword Research\obj\Debug\Keyword Research.exe
+F:\softpro\Keyword Research\Keyword Research\obj\Debug\Keyword Research.pdb

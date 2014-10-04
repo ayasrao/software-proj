@@ -17,7 +17,11 @@ namespace Crawler_class4_
         int ch;
         string htmlCode = "";
         int curloc;
+        int count_data_url = 0;
         string str;
+        string[] data_urls=null;// = new string[2000];
+        //webclient
+        WebClient client = new WebClient();
         //Constructor
         public Data(string uri)
         {
@@ -26,34 +30,49 @@ namespace Crawler_class4_
 
         public string GetStream()
         {
-            req = (HttpWebRequest)HttpWebRequest.Create(uri);
+          /*  req = (HttpWebRequest)HttpWebRequest.Create(uri);
             uri = null;
             resp = (HttpWebResponse)req.GetResponse();
             istrm = resp.GetResponseStream();
             StreamReader rdr = new StreamReader(istrm);
             str = rdr.ReadToEnd();
             resp.Close();
-            curloc = 0;
+            curloc = 0;*/
+            IWebProxy px = new WebProxy("10.1.0.11", 8080);
+            px.Credentials = new NetworkCredential("test3", "karachi@3");
+            client.Proxy = px;
+
+            //client.Credentials = new NetworkCredential("test3", "karachi@3");
+
+            str = client.DownloadString(uri);
             return str;
         }
 
         //For printing the html through stream
-        public string FindLink(string htmlstr, ref int startloc)
+        public string[] FindLink(string htmlstr, ref int startloc)
         {
-            {
-                int i;
+                
+                int i,ind;
                 int start, end;
                 string query = "href=\"http";
-                i = htmlstr.IndexOf(query, startloc, StringComparison.OrdinalIgnoreCase);
-                if (i != -1)
+                
+               // for (int k = 0; k <= htmlstr.Length;k++ )
+                //{
+
+                do
                 {
+                    i = htmlstr.IndexOf(query, startloc, StringComparison.OrdinalIgnoreCase);
+                    ind = i;
                     start = htmlstr.IndexOf('"', i) + 1;
                     end = htmlstr.IndexOf('"', start);
-                    uri = htmlstr.Substring(start, end - start);
-                    startloc = end;
-                }
-                return uri;
-            }
+                    data_urls[count_data_url] = htmlstr.Substring(start, end - start);
+                    count_data_url++;
+                    i = end;
+                    
+                } while (i != -1);   
+               // } //
+                
+            return data_urls;
 
         }
 

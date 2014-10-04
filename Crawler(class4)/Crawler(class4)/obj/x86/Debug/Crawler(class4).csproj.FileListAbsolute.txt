@@ -13,3 +13,11 @@ F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x
 F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Form1.resources
 F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Properties.Resources.resources
 F:\UOK Semesters\SirZainAbbas\SirZainAbbas\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).csproj.GenerateResource.Cache
+F:\softpro\Crawler(class4)\Crawler(class4)\bin\Debug\Crawler(class4).exe
+F:\softpro\Crawler(class4)\Crawler(class4)\bin\Debug\Crawler(class4).pdb
+F:\softpro\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).csprojResolveAssemblyReference.cache
+F:\softpro\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Form1.resources
+F:\softpro\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler_class4_.Properties.Resources.resources
+F:\softpro\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).csproj.GenerateResource.Cache
+F:\softpro\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).exe
+F:\softpro\Crawler(class4)\Crawler(class4)\obj\x86\Debug\Crawler(class4).pdb
